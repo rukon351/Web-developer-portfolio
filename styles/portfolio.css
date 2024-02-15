@@ -1,0 +1,9 @@
+/* front for whole body */
+
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+nav {
+    display: flex;
+}
